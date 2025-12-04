@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="chevron-left.svg">chevron-left.svg</file>
+        <file alias="chevron-right.svg">chevron-right.svg</file>
+        <file alias="arrow-left.svg">arrow-left.svg</file>
+        <file alias="today.svg">today.svg</file>
+        <file alias="refresh.svg">refresh.svg</file>
+        <file alias="settings.svg">settings.svg</file>
+    </qresource>
+</RCC>
